@@ -7,4 +7,9 @@
 
 # Vim
 !.vim
+!.vim/*
+!.vim/autoload
+!.vim/autoload/*
+!.vim/bundle
+!.vim/bundle/*
 !.vimrc

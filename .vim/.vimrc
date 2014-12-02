@@ -1,3 +1,7 @@
+" Pathogen (loads all plugins from .vim/bundle)
+" Pathogen should be in .vim/autoload
+execute pathogen#infect()
+
 " Environment
 set noswapfile
 set nobackup
