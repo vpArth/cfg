@@ -190,3 +190,7 @@ inoremap  <Esc>:bn!<CR>
 nnoremap  :bw!<CR>
 inoremap  <Esc>:bw!<CR>
 
+" Plugins:
+" NERDTree
+map  :NERDTreeToggle<CR>
+
