@@ -1,0 +1,8 @@
+# Whitelist
+*
+# Git
+!.gitignore
+!.gitconfig
+!.gitmodules
+
+
